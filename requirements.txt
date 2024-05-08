@@ -1,0 +1,5 @@
+PyPDF2
+google-generativeai
+python-dotenv
+fastapi
+uvicorn
